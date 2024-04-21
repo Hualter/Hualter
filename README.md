@@ -3,7 +3,7 @@
 
 - 🌱 Continuo estudando sobre **JavaScript, .Net e outros**
 
-- 📫 Você pode falar comigo pelo instagram ou neste e-mail **hualter.jw@outlook.com**
+- 📫 Você pode falar comigo pelo instagram, linkedin ou neste e-mail **hualter.jw@outlook.com**
 
 - 📄 Saiba mais sobre meu perfil profissional aqui --> [linkedin.com/in/hualter/](linkedin.com/in/hualter/)
 
