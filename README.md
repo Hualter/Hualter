@@ -14,7 +14,7 @@
 
 <h3 align="left">Tecnologias e Ferramentas em IA:</h3>
 <p align="left">
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/usuario/repo/blob/main/assets/images/openai_logo.svg?raw=true" alt="openai" width="40" height="40"/> </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <i class="fa-brands fa-openai"></i></a>
   <a href="https://www.google.com/ai" target="_blank" rel="noreferrer"> <img src="https://github.com/usuario/repo/blob/main/assets/images/google_logo.svg?raw=true" alt="google" width="40" height="40"/> </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://github.com/usuario/repo/blob/main/assets/images/huggingface_logo.svg?raw=true" alt="huggingface" width="40" height="40"/> </a> 
   <a href="https://github.com/eleutherai" target="_blank" rel="noreferrer"> <img src="https://github.com/usuario/repo/blob/main/assets/images/eleutherai_logo.svg?raw=true" alt="eleutherai" width="40" height="40"/> </a> 
