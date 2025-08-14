@@ -10,8 +10,6 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hualter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hualter" height="30" width="40" /></a>
-<a href="https://instagram.com/@hualter_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@hualter_" height="30" width="40" /></a>
-<a href="https://www.behance.net/hualter_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hualter_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tecnologias e Ferramentas em IA:</h3>
