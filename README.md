@@ -14,10 +14,10 @@
 
 <h3 align="left">Tecnologias e Ferramentas em IA:</h3>
 <p align="left">
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/OpenAI_Logo.svg" alt="openai" width="40" height="40"/> </a>
-  <a href="https://www.google.com/ai" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_DeepMind_logo.svg" alt="google" width="40" height="40"/> </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hugging_Face_logo.svg" alt="huggingface" width="40" height="40"/> </a> 
-  <a href="https://github.com/eleutherai" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/EleutherAI_logo.svg" alt="eleutherai" width="40" height="40"/> </a> 
-  <a href="https://gptunfiltered.substack.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/ChatGPT_logo.svg" alt="gpt" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/ai" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Microsoft_Logo_2012.svg" alt="microsoft" width="40" height="40"/> </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/usuario/repo/blob/main/assets/images/openai_logo.svg?raw=true" alt="openai" width="40" height="40"/> </a>
+  <a href="https://www.google.com/ai" target="_blank" rel="noreferrer"> <img src="https://github.com/usuario/repo/blob/main/assets/images/google_logo.svg?raw=true" alt="google" width="40" height="40"/> </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://github.com/usuario/repo/blob/main/assets/images/huggingface_logo.svg?raw=true" alt="huggingface" width="40" height="40"/> </a> 
+  <a href="https://github.com/eleutherai" target="_blank" rel="noreferrer"> <img src="https://github.com/usuario/repo/blob/main/assets/images/eleutherai_logo.svg?raw=true" alt="eleutherai" width="40" height="40"/> </a> 
+  <a href="https://gptunfiltered.substack.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/usuario/repo/blob/main/assets/images/chatgpt_logo.svg?raw=true" alt="gpt" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/ai" target="_blank" rel="noreferrer"> <img src="https://github.com/usuario/repo/blob/main/assets/images/microsoft_logo.svg?raw=true" alt="microsoft" width="40" height="40"/> </a>
 </p>
